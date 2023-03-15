@@ -1,6 +1,7 @@
 # Artemis Tutored Project
 
 ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 
