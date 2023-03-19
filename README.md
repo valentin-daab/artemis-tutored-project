@@ -20,4 +20,4 @@ The data was extracted from the entsoe API using the [entso-py](https://github.c
 
 The data is visualized using dynamic charts and tables in excel, using pivot tables and the index function.
 
-**You can download an example file [here](https://github.com/valentin-daab/artemis-tutored-project/blob/main/final_agppt.xlsx)**
+**You can download an example file [here](https://github.com/valentin-daab/artemis-tutored-project/blob/main/final_imports.xlsx)**
