@@ -14,6 +14,7 @@ A data analysis comparing [entsoe transparency platform](https://transparency.en
 - Installed capacity per production unit (aggregated by country)
 - Actual generation per production type
 - Actual generation per production unit (aggregated by country)
+- Electricity imports & exports (aggregated by country)
 
 The data was extracted from the entsoe API using the [entso-py](https://github.com/EnergieID/entsoe-py) python client.
 
