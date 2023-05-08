@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 
-## :construction: This is still a work in progress :construction:
+## :page_facing_up: [Report](https://github.com/valentin-daab/artemis-tutored-project/blob/a12213b47d7d9519c1ec1e8e7588389e40c43b33/entsoe_vs_eurostat_comparison.pdf)
 
 ## What is it ?
 
